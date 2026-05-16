@@ -1,4 +1,4 @@
-# Spin Glass 2.0: Agent Attention
+# Non-Equilibrium Attention Markets
 
 ## Introduction
 
